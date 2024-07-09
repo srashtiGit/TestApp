@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="isbn">ISBN</string>
+    <string name="price">Price</string>
+    <string name="author">Author</string>
+    <string name="description">Description</string>
+    <string name="error_detail">Apologies!! We couldn\'t find the book you were looking for</string>
+
+</resources>
